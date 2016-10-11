@@ -1,0 +1,16 @@
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+.settings
+.project
+.mvn
+.classpath
+.springBeans
+/bin/
+nb-configuration.xml
+nbactions.xml
+.springBeans
+
+/nbproject/
